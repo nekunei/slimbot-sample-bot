@@ -17,3 +17,6 @@ TELEGRAM_BOT_TOKEN=12345:abcderfghi.....
 ```
 
 Then, Run the Bots by typing `npm start` At Console!
+
+## Support Us too!
+If you have question, Please join our [Telegram Group](https://t.me/neigroup)!

@@ -1,5 +1,3 @@
-- name: Coveralls GitHub Action
-  uses: coverallsapp/github-action@v1.1.1
 
 
 # SLIMBOT-SAMPLE-BOTS

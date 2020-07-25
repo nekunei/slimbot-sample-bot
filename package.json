@@ -1,0 +1,25 @@
+{
+  "name": "slimbot-sample-bot",
+  "version": "0.0.1",
+  "description": "An sample telegram bots code for Beginner. using slimbot module as well.",
+  "main": "index.js.js",
+  "author": "@nekunei",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "slimbot": "^4.9.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

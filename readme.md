@@ -1,3 +1,7 @@
+- name: Coveralls GitHub Action
+  uses: coverallsapp/github-action@v1.1.1
+
+
 # SLIMBOT-SAMPLE-BOTS
 
 An Sample Codes for Telegram Bots using nodejs and slimbot module.

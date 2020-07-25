@@ -1,4 +1,4 @@
-
+[![Coverage Status](https://coveralls.io/repos/github/nekunei/slimbot-sample-bot/badge.svg?branch=master)](https://coveralls.io/github/nekunei/slimbot-sample-bot?branch=master)
 
 # SLIMBOT-SAMPLE-BOTS
 
